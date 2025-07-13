@@ -103,9 +103,6 @@ const TodoApp = () => {
   return (
     <div className="todo-container">
       <div className="todo-inner">
-
-        
-
         <div className="todo-stats">
           <div className="stat-card"><div>{stats.total}</div><span>Total</span></div>
           <div className="stat-card completed"><div>{stats.completed}</div><span>Completed</span></div>
@@ -193,8 +190,6 @@ const TodoApp = () => {
             ))
           )}
         </div>
-
-        <div className="todo-footer">Stay organized and productive with Nest</div>
       </div>
     </div>
   );
