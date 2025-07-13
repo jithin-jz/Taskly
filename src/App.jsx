@@ -183,7 +183,7 @@ const TodoApp = () => {
           )}
         </div>
 
-        <div className="todo-footer">Stay organized and productive with TaskFlow</div>
+        <div className="todo-footer">Stay organized and productive with Nest</div>
       </div>
     </div>
   );
