@@ -104,10 +104,7 @@ const TodoApp = () => {
     <div className="todo-container">
       <div className="todo-inner">
 
-        <div className="todo-header">
-          <h1 className="todo-title">NEST</h1>
-          <p className="todo-subtitle">Organize your life, one task at a time</p>
-        </div>
+        
 
         <div className="todo-stats">
           <div className="stat-card"><div>{stats.total}</div><span>Total</span></div>
